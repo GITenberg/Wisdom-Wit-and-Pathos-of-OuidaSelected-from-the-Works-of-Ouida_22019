@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1204
     wikipedia: http://en.wikipedia.org/wiki/Ouida
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22019#Wisdom-Wit-and-Pathos-of-OuidaSelected-from-the-Works-of-Ouida
 gutenberg_issued: '2007-07-08'
 gutenberg_type: Text
 identifiers:
